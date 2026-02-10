@@ -1,121 +1,95 @@
-<!-- HERO SECTION -->
+<h1 align="center">Romaan Khan</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Romaan%20Khan&fontAlign=50&fontAlignY=55&fontSize=48&color=0:020617,100:0B1220&fontColor=C9A24D" />
+  <b>Senior Flutter & Android Engineer</b><br/>
+  <i>Guitarist · Singer · Creator</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=5000&pause=1400&color=C9A24D&center=true&vCenter=true&width=900&lines=Senior+Flutter+%26+Android+Engineer;Quiet+Luxury+in+Software;Guitarist+%7C+Singer+%7C+Creator" />
+  Building calm, scalable mobile systems —<br/>
+  with the same discipline I bring to music.
 </p>
 
 <p align="center">
-  <sub><i>Built with restraint. Designed to last.</i></sub>
-</p>
-
----
-
-<!-- DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655885-0c6c79b6-68c8-4c5a-93fd-baa0f2f1b3c9.gif" width="70%" />
-</p>
-
-## 🕴️ Identity
-
-A senior **Flutter & Android engineer** with **7+ years** of experience building systems that value  
-**clarity, performance, and longevity**.
-
-I follow an old-money philosophy in both **engineering and music**:
-> *Do not impress loudly. Impress permanently.*
-
-- Architecture-first engineering  
-- Performance-driven UI  
-- Clean, scalable mobile systems  
-- Calm execution under pressure  
-
----
-
-<!-- ENGINEERING VISUAL -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romaan-khan&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romaan-khan&theme=gruvbox" />
+  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/romaan__khan/">Instagram</a> ·
+  <a href="mailto:romaanofficial@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🎼 Music & Craft
+## About
 
-<p align="center">
-  <img src="https://i.imgur.com/2RM9G6p.jpg" width="65%" />
-</p>
+I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience building
+production-grade mobile applications.
 
-Music sharpens my engineering instincts.
+I value:
+- clarity over cleverness  
+- longevity over trends  
+- systems that age well  
 
-- 🎸 Acoustic & electric guitar  
-- 🎤 Vocal performance & covers  
-- 🎧 Studio-grade recording sensibility  
-- 📱 Music reels & short-form performances  
-
-Rhythm, timing, silence — the same principles guide my code.
+Music plays a parallel role in my life —  
+it sharpens rhythm, patience, and restraint, all of which show up in my code.
 
 ---
 
-<!-- TECH STACK VISUAL STRIP -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,nodejs,mysql,git&theme=dark" />
-</p>
+## What I Do
+
+- Design and build **scalable Flutter applications**
+- Apply **Clean Architecture & SOLID principles**
+- Optimize for **performance and maintainability**
+- Create **music covers** (guitar + vocals) alongside engineering work
 
 ---
 
-## 📊 GitHub Performance
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&theme=gruvbox&hide_border=true&title_color=C9A24D&icon_color=C9A24D" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&theme=gruvbox&hide_border=true&ring=C9A24D&fire=C9A24D" height="165"/>
-</p>
-
----
-
-<!-- CONTRIBUTION ART -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,nodejs,mysql,git" />
 </p>
 
 ---
 
-## 🏆 Recognition
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaan-khan&theme=gruvbox&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Philosophy
+## Consistency
 
 <p align="center">
-  <img src="https://i.imgur.com/8nJkQkS.png" width="60%" />
-</p>
-
-> *Luxury is silence, confidence, and control.*  
-> *Noise is optional.*
-
----
-
-## 🤝 Private Channels
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/romaan__khan/">
-    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="mailto:romaanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+## Beyond Code
+
+- 🎸 Guitar (acoustic & electric)
+- 🎤 Vocal performance
+- 🎧 Recording & arrangement aesthetics
+- 🎵 Short-form music content
+
+Music and software share the same foundation:
+structure, timing, and intentional silence.
+
+---
+
+## Philosophy
+
+> Write code like music —  
+> every line should have a reason to exist.
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat-square&color=C9A24D"/>
+  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat" />
 </p>
