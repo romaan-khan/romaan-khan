@@ -6,14 +6,38 @@
 </p>
 
 <p align="center">
-  Building calm, scalable mobile systems —<br/>
+  Designing calm, scalable mobile systems —<br/>
   with the same discipline I bring to music.
 </p>
 
+<!-- CUSTOM BUTTONS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/romaan__khan/">Instagram</a> ·
-  <a href="mailto:romaanofficial@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/" target="_blank">
+    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
+      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
+      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
+        LinkedIn
+      </text>
+    </svg>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/romaan__khan/" target="_blank">
+    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
+      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
+      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
+        Instagram
+      </text>
+    </svg>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:romaanofficial@gmail.com">
+    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
+      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
+      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
+        Email
+      </text>
+    </svg>
+  </a>
 </p>
 
 ---
@@ -23,22 +47,22 @@
 I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience building
 production-grade mobile applications.
 
-I value:
+I focus on:
 - clarity over cleverness  
 - longevity over trends  
-- systems that age well  
+- systems that are easy to reason about  
 
-Music plays a parallel role in my life —  
-it sharpens rhythm, patience, and restraint, all of which show up in my code.
+Music plays an equal role in my life — it sharpens timing, patience,
+and restraint, all of which show up in my engineering work.
 
 ---
 
 ## What I Do
 
-- Design and build **scalable Flutter applications**
+- Build **scalable Flutter applications**
 - Apply **Clean Architecture & SOLID principles**
-- Optimize for **performance and maintainability**
-- Create **music covers** (guitar + vocals) alongside engineering work
+- Optimize apps for **performance and maintainability**
+- Create **guitar + vocal music covers** alongside engineering work
 
 ---
 
@@ -58,7 +82,7 @@ it sharpens rhythm, patience, and restraint, all of which show up in my code.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -66,7 +90,7 @@ it sharpens rhythm, patience, and restraint, all of which show up in my code.
 ## Consistency
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -91,5 +115,5 @@ structure, timing, and intentional silence.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat"/>
 </p>
