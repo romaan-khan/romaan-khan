@@ -1,108 +1,129 @@
-<h1 align="center">Hi 👋, I'm Romaan Khan</h1>
-<h3 align="center">Android/Flutter Developer🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=romaankhan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="romaankhan" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently working as an Android/Flutter Developer
-
-- 📫 How to reach me **romaanofficial@gmail.com**
-
-- ⚡ Fun fact :- food and anime are the reasons to live.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/RonRomaan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/romaan__khan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+<!-- Old Money Luxury Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&duration=5000&pause=1400&color=C9A24D&center=true&vCenter=true&width=900&lines=Romaan+Khan;Senior+Flutter+%26+Android+Engineer;Quiet+Luxury+in+Software;Guitarist+%7C+Singer+%7C+Creator" />
 </p>
 
-<br>
+<p align="center">
+  <sub><i>Precision. Restraint. Longevity.</i></sub>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-      width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+## 🕴️ Profile
 
-<br>
+Senior **Flutter & Android Engineer** with **7+ years** of experience delivering **production-grade mobile applications** across domains.  
+My work reflects an **old-money philosophy**: calm interfaces, disciplined architecture, and systems designed to age well.
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=romaankhan&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+I approach software the same way I approach music —  
+**structure first, emotion second, noise never.**
 
-<br>
+- Mobile systems built for **scale and performance**
+- Strong advocate of **Clean Architecture & SOLID**
+- Calm under pressure, obsessive about details
+- Engineer by profession, musician by temperament  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romaankhan&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+---
 
-<br>
+## 🎼 Music & Craft
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romaankhan&" alt="adam-pw" /></p>
+Beyond engineering, I am deeply involved in music.
 
-<br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=romaankhan" alt="romaankhan" /></a> </p>
+- 🎸 Acoustic & electric guitar  
+- 🎤 Vocal performance & song covers  
+- 🎧 Studio-style recording aesthetics  
+- 📱 Music content creator (reels & short-form)
 
+Music sharpens timing, patience, and restraint —  
+qualities I carry directly into my engineering work.
 
+---
 
+## ⚙️ Technical Arsenal
 
-------------------------------------------------------------------------------------------------------------------------------------------
-[Romaan Khan](https://github.com/romaankhan)
+### Mobile Engineering
+![Flutter](https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart)
+![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-1F2933?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge)
+
+### Architecture & State
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-020617?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-0F172A?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-1F2933?style=for-the-badge)
+
+### Backend, Data & Tooling
+![Firebase](https://img.shields.io/badge/Firebase-92400E?style=for-the-badge&logo=firebase)
+![REST](https://img.shields.io/badge/REST_APIs-020617?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Presence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&theme=gruvbox&hide_border=true&title_color=C9A24D&icon_color=C9A24D" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&theme=gruvbox&hide_border=true&ring=C9A24D&fire=C9A24D" height="165"/>
+</p>
+
+---
+
+## 🧠 Engineering Depth
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romaan-khan&theme=gruvbox"/>
+</p>
+
+---
+
+## 🐍 Consistency Over Time
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Milestones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=romaan-khan&theme=gruvbox&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> *Luxury is not decoration.*  
+> *It is clarity, silence, and mastery.*
+
+This applies equally to:
+- Software architecture  
+- UI & interaction design  
+- Performance tuning  
+- Musical phrasing  
+
+---
+
+## 🤝 Private Correspondence
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/romaan__khan/">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:romaanofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat-square&color=C9A24D"/>
+</p>
