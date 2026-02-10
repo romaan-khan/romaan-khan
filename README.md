@@ -1,68 +1,71 @@
-<!-- Old Money Luxury Header -->
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&duration=5000&pause=1400&color=C9A24D&center=true&vCenter=true&width=900&lines=Romaan+Khan;Senior+Flutter+%26+Android+Engineer;Quiet+Luxury+in+Software;Guitarist+%7C+Singer+%7C+Creator" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Romaan%20Khan&fontAlign=50&fontAlignY=55&fontSize=48&color=0:020617,100:0B1220&fontColor=C9A24D" />
 </p>
 
 <p align="center">
-  <sub><i>Precision. Restraint. Longevity.</i></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=5000&pause=1400&color=C9A24D&center=true&vCenter=true&width=900&lines=Senior+Flutter+%26+Android+Engineer;Quiet+Luxury+in+Software;Guitarist+%7C+Singer+%7C+Creator" />
+</p>
+
+<p align="center">
+  <sub><i>Built with restraint. Designed to last.</i></sub>
 </p>
 
 ---
 
-## 🕴️ Profile
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655885-0c6c79b6-68c8-4c5a-93fd-baa0f2f1b3c9.gif" width="70%" />
+</p>
 
-Senior **Flutter & Android Engineer** with **7+ years** of experience delivering **production-grade mobile applications** across domains.  
-My work reflects an **old-money philosophy**: calm interfaces, disciplined architecture, and systems designed to age well.
+## 🕴️ Identity
 
-I approach software the same way I approach music —  
-**structure first, emotion second, noise never.**
+A senior **Flutter & Android engineer** with **7+ years** of experience building systems that value  
+**clarity, performance, and longevity**.
 
-- Mobile systems built for **scale and performance**
-- Strong advocate of **Clean Architecture & SOLID**
-- Calm under pressure, obsessive about details
-- Engineer by profession, musician by temperament  
+I follow an old-money philosophy in both **engineering and music**:
+> *Do not impress loudly. Impress permanently.*
+
+- Architecture-first engineering  
+- Performance-driven UI  
+- Clean, scalable mobile systems  
+- Calm execution under pressure  
+
+---
+
+<!-- ENGINEERING VISUAL -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romaan-khan&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romaan-khan&theme=gruvbox" />
+</p>
 
 ---
 
 ## 🎼 Music & Craft
 
-Beyond engineering, I am deeply involved in music.
+<p align="center">
+  <img src="https://i.imgur.com/2RM9G6p.jpg" width="65%" />
+</p>
+
+Music sharpens my engineering instincts.
 
 - 🎸 Acoustic & electric guitar  
-- 🎤 Vocal performance & song covers  
-- 🎧 Studio-style recording aesthetics  
-- 📱 Music content creator (reels & short-form)
+- 🎤 Vocal performance & covers  
+- 🎧 Studio-grade recording sensibility  
+- 📱 Music reels & short-form performances  
 
-Music sharpens timing, patience, and restraint —  
-qualities I carry directly into my engineering work.
-
----
-
-## ⚙️ Technical Arsenal
-
-### Mobile Engineering
-![Flutter](https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart)
-![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-1F2933?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge)
-
-### Architecture & State
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-020617?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-0F172A?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC-1F2933?style=for-the-badge)
-
-### Backend, Data & Tooling
-![Firebase](https://img.shields.io/badge/Firebase-92400E?style=for-the-badge&logo=firebase)
-![REST](https://img.shields.io/badge/REST_APIs-020617?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git)
+Rhythm, timing, silence — the same principles guide my code.
 
 ---
 
-## 📊 GitHub Presence
+<!-- TECH STACK VISUAL STRIP -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,nodejs,mysql,git&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&theme=gruvbox&hide_border=true&title_color=C9A24D&icon_color=C9A24D" height="165"/>
@@ -71,44 +74,33 @@ qualities I carry directly into my engineering work.
 
 ---
 
-## 🧠 Engineering Depth
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romaan-khan&theme=gruvbox"/>
-</p>
-
----
-
-## 🐍 Consistency Over Time
-
+<!-- CONTRIBUTION ART -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 Milestones
+## 🏆 Recognition
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaan-khan&theme=gruvbox&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=romaan-khan&theme=gruvbox&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## 🧠 Philosophy
 
-> *Luxury is not decoration.*  
-> *It is clarity, silence, and mastery.*
+<p align="center">
+  <img src="https://i.imgur.com/8nJkQkS.png" width="60%" />
+</p>
 
-This applies equally to:
-- Software architecture  
-- UI & interaction design  
-- Performance tuning  
-- Musical phrasing  
+> *Luxury is silence, confidence, and control.*  
+> *Noise is optional.*
 
 ---
 
-## 🤝 Private Correspondence
+## 🤝 Private Channels
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">
