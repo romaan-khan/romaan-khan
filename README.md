@@ -6,37 +6,23 @@
 </p>
 
 <p align="center">
-  Designing calm, scalable mobile systems —<br/>
-  with the same discipline I bring to music.
+  Designing calm, scalable mobile systems<br/>
+  with the discipline of music.
 </p>
 
-<!-- CUSTOM BUTTONS -->
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/" target="_blank">
-    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
-      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
-      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
-        LinkedIn
-      </text>
-    </svg>
+  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">
+    LinkedIn
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/romaan__khan/" target="_blank">
-    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
-      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
-      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
-        Instagram
-      </text>
-    </svg>
+  ·
+  <a href="https://www.instagram.com/romaan__khan/">
+    Instagram
   </a>
-  &nbsp;&nbsp;
+  ·
   <a href="mailto:romaanofficial@gmail.com">
-    <svg width="150" height="44" viewBox="0 0 150 44" xmlns="http://www.w3.org/2000/svg">
-      <rect x="1" y="1" rx="10" ry="10" width="148" height="42" fill="none" stroke="currentColor" stroke-width="2"/>
-      <text x="75" y="28" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="currentColor">
-        Email
-      </text>
-    </svg>
+    Email
   </a>
 </p>
 
@@ -44,66 +30,51 @@
 
 ## About
 
-I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience building
-production-grade mobile applications.
+I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience
+building production-grade mobile applications.
 
-I focus on:
-- clarity over cleverness  
-- longevity over trends  
-- systems that are easy to reason about  
+I focus on systems that are:
 
-Music plays an equal role in my life — it sharpens timing, patience,
-and restraint, all of which show up in my engineering work.
+• simple to understand  
+• scalable over time  
+• maintainable by teams  
+• calm under pressure  
+
+Music plays an equal role in my life — it sharpens timing,
+patience, and restraint. Those qualities show up directly
+in how I design software.
 
 ---
 
 ## What I Do
 
-- Build **scalable Flutter applications**
-- Apply **Clean Architecture & SOLID principles**
-- Optimize apps for **performance and maintainability**
-- Create **guitar + vocal music covers** alongside engineering work
+- Architect scalable Flutter applications
+- Apply Clean Architecture & SOLID principles
+- Optimize performance & maintainability
+- Build production-ready Android systems
+- Create guitar + vocal music content
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,nodejs,mysql,git" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## Consistency
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  Flutter · Dart · Android · Kotlin · Java  
+  Firebase · Node.js · MySQL · Git
 </p>
 
 ---
 
 ## Beyond Code
 
-- 🎸 Guitar (acoustic & electric)
-- 🎤 Vocal performance
-- 🎧 Recording & arrangement aesthetics
-- 🎵 Short-form music content
+🎸 Guitar (acoustic & electric)  
+🎤 Vocal performance  
+🎧 Recording & arrangement aesthetics  
+🎵 Short-form music content  
 
 Music and software share the same foundation:
-structure, timing, and intentional silence.
+
+**structure · timing · intentional silence**
 
 ---
 
@@ -115,5 +86,5 @@ structure, timing, and intentional silence.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat"/>
+  Thanks for visiting.
 </p>
