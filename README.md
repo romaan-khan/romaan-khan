@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/romaan-khan.png" width="140" style="border-radius: 50%;" />
+  <img src="https://github.com/romaan-khan.png" width="150" />
 </p>
 
 <h1 align="center">Romaan Khan</h1>
@@ -26,14 +26,14 @@
 
 ## About
 
-I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience building production-grade mobile applications.
+Senior mobile engineer with **7+ years** building production Flutter and Android systems.
 
-I design systems that prioritize:
+I prioritize:
 
 • clarity over cleverness  
-• longevity over trends  
-• calm architecture  
-• real-world scalability  
+• architecture that lasts  
+• performance without complexity  
+• code teams enjoy maintaining  
 
 Music sharpens timing, patience, and restraint —  
 the same qualities I bring into engineering.
@@ -51,22 +51,22 @@ the same qualities I bring into engineering.
 ## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=romaan-khan&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true&text_color=000000" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## Beyond Code
 
-🎸 Guitar (acoustic & electric)  
+🎸 Guitar & music production  
 🎤 Vocal performance  
-🎧 Recording & arrangement aesthetics  
-🎵 Short-form music content  
+🎧 Recording aesthetics  
+🎵 Short-form creative content  
 
 Music and software share the same foundation:
 
