@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://github.com/romaan-khan.png" width="140" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Romaan Khan</h1>
 
 <p align="center">
-  <b>Senior Flutter & Android Engineer</b><br/>
-  <i>Guitarist · Singer · Creator</i>
+  Senior Flutter & Android Engineer<br/>
+  Guitarist · Singer · Creator
 </p>
 
 <p align="center">
@@ -13,54 +17,46 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">
-    LinkedIn
-  </a>
-  ·
-  <a href="https://www.instagram.com/romaan__khan/">
-    Instagram
-  </a>
-  ·
-  <a href="mailto:romaanofficial@gmail.com">
-    Email
-  </a>
+  <a href="https://www.linkedin.com/in/romaan-khan-b5b44b143/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/romaan__khan/">Instagram</a> ·
+  <a href="mailto:romaanofficial@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About
 
-I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience
-building production-grade mobile applications.
+I’m a **Senior Flutter & Android Engineer** with **7+ years** of experience building production-grade mobile applications.
 
-I focus on systems that are:
+I design systems that prioritize:
 
-• simple to understand  
-• scalable over time  
-• maintainable by teams  
-• calm under pressure  
+• clarity over cleverness  
+• longevity over trends  
+• calm architecture  
+• real-world scalability  
 
-Music plays an equal role in my life — it sharpens timing,
-patience, and restraint. Those qualities show up directly
-in how I design software.
-
----
-
-## What I Do
-
-- Architect scalable Flutter applications
-- Apply Clean Architecture & SOLID principles
-- Optimize performance & maintainability
-- Build production-ready Android systems
-- Create guitar + vocal music content
+Music sharpens timing, patience, and restraint —  
+the same qualities I bring into engineering.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  Flutter · Dart · Android · Kotlin · Java  
-  Firebase · Node.js · MySQL · Git
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,firebase,nodejs,mysql,git" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=romaan-khan&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=romaan-khan&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaan-khan&layout=compact&hide_border=true&text_color=000000" />
 </p>
 
 ---
@@ -86,5 +82,5 @@ Music and software share the same foundation:
 ---
 
 <p align="center">
-  Thanks for visiting.
+  <img src="https://komarev.com/ghpvc/?username=romaan-khan&style=flat" />
 </p>
